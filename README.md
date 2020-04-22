@@ -13,7 +13,7 @@ GUERRY Bryan ->
 
 MORREIRA Vasco -> 
 
-CAZALET-AUSSAT Jérémy ->
+CAZALET-AUSSAT Jérémy -> https://github.com/jeremcaz/Drone_sous_marin.git
 
 
 La finalité de ce projet est de poursuivre le développement d’un drone sous-marin (ROV), dans l’optique d’une amélioration continue afin de rendre le système opérationnel. 
