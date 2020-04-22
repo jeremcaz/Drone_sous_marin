@@ -2,6 +2,7 @@
 Projet Y-Day Drone Sous-Marin
 
 Master 1 Mécatronique 
+
 Groupe: BEGHIN Antoine / FOUR Sébastien / GUERRY Bryan / MORREIRA Vasco / CAZALET-AUSSAT Jérémy
 
 
